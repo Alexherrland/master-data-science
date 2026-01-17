@@ -1,0 +1,6 @@
+accuracy:  67.19%; (non-O)
+accuracy:  94.36%; precision:  60.49%; recall:  66.09%; FB1:  63.17
+              LOC: precision:  59.14%; recall:  70.11%; FB1:  64.16  1285
+             MISC: precision:  32.07%; recall:  27.35%; FB1:  29.52  290
+              ORG: precision:  67.44%; recall:  64.21%; FB1:  65.79  1333
+              PER: precision:  61.22%; recall:  81.63%; FB1:  69.97  980
