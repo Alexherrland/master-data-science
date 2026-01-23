@@ -18,7 +18,7 @@ Enfoque en modelos de aprendizaje supervisado y no supervisado utilizando el eco
 
 ### Infraestructuras Computacionales para Datos Masivos (ICPDM)
 Implementación de soluciones sobre arquitecturas distribuidas y procesamiento en tiempo real.
-* **TP 1:** Procesamiento batch con PySpark DataFrames y Spark SQL sobre entornos Hadoop/Hive.
+* **TP 1:** Procesamiento batch con PySpark DataFrames y Spark SQL sobre entornos Hadoop/Hive. (Nota: 8.8)
 * **TP 2:** Ingesta de datos de movilidad (EMT Madrid) con Kafka y procesamiento en flujo con Spark Structured Streaming.
 
 

@@ -2,7 +2,7 @@
 
 Este proyecto constituye la primera entrega práctica de la asignatura **Infraestructuras Computacionales para Procesamiento de Datos Masivos**. El objetivo es aplicar los fundamentos de **Apache Spark** mediante su API **PySpark** para el procesamiento distribuido de datos masivos.
 
-**Nota obtenida:** Pendiente de calificación
+**Nota obtenida:** 8.8
 
 ---
 
